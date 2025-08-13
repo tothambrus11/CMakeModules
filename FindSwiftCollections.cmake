@@ -5,7 +5,6 @@ set(patch_swift_collections
   ${CMAKE_CURRENT_LIST_DIR}/patches/swift-collections.patch)
 
 fetch_hylo_dependency(SwiftCollections
-  GIT_REPOSITORY https://github.com/apple/swift-collections.git
-  PATCH_COMMAND ${patch_swift_collections}
-  GIT_TAG        1.2.1
+  GIT_REPOSITORY https://github.com/tothambrus11/swift-collections.git
+  GIT_TAG        28899a6fb975a60090cea9bd46fbedfd5f576f39
 )
