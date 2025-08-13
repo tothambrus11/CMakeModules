@@ -6,5 +6,5 @@ set(patch_swift_collections
 
 fetch_hylo_dependency(SwiftCollections
   GIT_REPOSITORY https://github.com/tothambrus11/swift-collections.git
-  GIT_TAG        28899a6fb975a60090cea9bd46fbedfd5f576f39
+  GIT_TAG        e3e1fbbcac568ea141c851b70c81978371afdb8f
 )
