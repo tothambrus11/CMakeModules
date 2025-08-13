@@ -6,5 +6,5 @@ include(./FetchHyloDependency)
 
 fetch_hylo_dependency(SwiftNumerics
   GIT_REPOSITORY https://github.com/tothambrus11/swift-numerics.git
-  GIT_TAG        49b753eff41e5a2e2bf6d4aab9bccebb7e45a65e
+  GIT_TAG        7675331540c9b0260e4638b73440c326ea9ca8c8
 )
